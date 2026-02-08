@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Saqib Ullah 👋
 
-<!--
-**saqib77official/saqib77official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Engineer at **Kompass Technologies Private Limited**  
+I build scalable commerce and store management platforms designed for
+real-world operational use.
 
-Here are some ideas to get you started:
+## What I work on
+- Online store and multi-store commerce systems
+- Backend services and cloud-native architectures
+- Systems designed for consistency and scale
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Backend:** Go (Golang)
+- **Frontend:** Next.js, TypeScript
+- **Cloud:** Google Cloud Platform
+- **Focus:** Scalability, maintainability, reliability
+
+## Current Focus
+- Designing commerce platforms that work across multiple physical locations
+- Improving system flexibility without increasing complexity
+
+> I value systems that remain simple even as they scale.
